@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Random changes made by psyc218
+=======
+It's probably too hot for a base.
+>>>>>>> 9b2f1056c35a2eb09fc03de5ec150aab6f370ec7
